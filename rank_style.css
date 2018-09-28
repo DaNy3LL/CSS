@@ -1,0 +1,161 @@
+body {
+	background:#232323;
+	color:#cfcbc2;
+	font-family:sans-serif;
+}
+
+table {
+	font-size:12px;
+	width:100%;
+}
+
+th {
+	background:#2f3030;
+	color:#93ba10;
+	text-align:left;
+}
+
+tr {
+	background:#262626;
+}
+
+.q {
+	border:1px solid #4a4945;
+}
+
+.b {
+	background:#2a2a2a;
+}
+
+#q {
+	border:1px solid #4a4945;
+}
+
+#b {
+	background:#2a2a2a;
+}
+
+
+.iN {
+	color:#FF0000;
+}
+.iY {
+	color:#008000;
+}
+
+#rankDminus {
+	text-indent: 16px;
+	background-image: url(skill/rankDminus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#rankD {
+	text-indent: 16px;
+	background-image: url(skill/rankD.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#rankDplus {
+	text-indent: 16px;
+	background-image: url(skill/rankDplus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#rankCminus {
+	text-indent: 16px;
+	background-image: url(skill/rankCminus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#rankC {
+	text-indent: 16px;
+	background-image: url(skill/rankC.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankCplus {
+	text-indent: 16px;
+	background-image: url(skill/rankCplus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankBminus {
+	text-indent: 16px;
+	background-image: url(skill/rankBminus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankB {
+	text-indent: 16px;
+	background-image: url(skill/rankB.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankBplus {
+	text-indent: 16px;
+	background-image: url(skill/rankBplus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankAminus {
+	text-indent: 16px;
+	background-image: url(skill/rankAminus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankA {
+	text-indent: 16px;
+	background-image: url(skill/rankA.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankAplus {
+	text-indent: 16px;
+	background-image: url(skill/rankAplus.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#rankS {
+	text-indent: 16px;
+	background-image: url(skill/rankS.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
